@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Radha Kumari",
+        "roll": 101,
+        "english": 89,
+        "math": 90,
+        "science": 99
+    },
+    {
+        "name": "Ajay shah",
+        "roll": 102,
+        "english": 99,
+        "math": 80,
+        "science": 78
+    }
+]
