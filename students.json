@@ -10,7 +10,14 @@
         "name": "Ajay shah",
         "roll": 102,
         "english": 99,
-        "math": 80,
+        "math": 78,
+        "science": 89
+    },
+    {
+        "name": "Renuka chaudhary",
+        "roll": 104,
+        "english": 89,
+        "math": 99,
         "science": 78
     }
 ]

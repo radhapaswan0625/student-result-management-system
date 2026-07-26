@@ -38,6 +38,7 @@ def load_students():
 
 
 students = load_students()
+
 while True:
     print("\n==== Student Result Management ====")
     print("1. Add Student")
