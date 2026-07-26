@@ -60,3 +60,34 @@ cd student-result-management-system
 ```bash
 python main.py
 ```
+
+## 📸 Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/main_menu_1.png)
+![Main Menu](screenshots/main_menu_2.png)
+
+### Add Student
+
+![Add Student](screenshots/add_student.png)
+
+### Display Students
+
+![Display Students](screenshots/display_students.png)
+
+### Search Student
+
+![Search Student](screenshots/search_student.png)
+
+### Update Student
+
+![Update Student](screenshots/update_student.png)
+
+### Delete Student
+
+![Delete Student](screenshots/delete_student.png)
+
+### Students JSON File
+
+![Students JSON](screenshots/students_json.png)
